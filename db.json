@@ -1,5 +1,5 @@
 {
-  "products": [
+  "products" = [
     { 
       "id": 1, 
       "Product name": "Mobile", 
@@ -87,6 +87,6 @@
       "Rating":"2", 
       "Image":"https://www.freeiconspng.com/thumbs/football-png/adidas-football-png-9.png", 
       "Description": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-    },
+    }
   ]  
 }
